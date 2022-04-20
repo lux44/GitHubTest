@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         supportActionBar?.title="테스트"
         var a =10
+        val name:String="sam"
     }
 }
